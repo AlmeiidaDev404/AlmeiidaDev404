@@ -4,7 +4,7 @@
 
 **`Dev em formação`**
 #
-Tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas na FAM e estou construindo minha trajetória na área de tecnologia. Buscando a minha primeira oportunidade na área de tecnologia, onde possa colocar meus conhecimentos em prática, aprender com novos desafios e continuar evoluindo profissionalmente.
+Tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas na FAM e estou construindo minha trajetória na área de tecnologia buscando a minha primeira oportunidade na área de tecnologia, onde possa colocar meus conhecimentos em prática, aprender com novos desafios e continuar evoluindo profissionalmente.
 
 📍 São Paulo, SP
 
