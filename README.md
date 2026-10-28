@@ -4,7 +4,7 @@
 
 **`Dev Full Stack em formação`**
 #
-Tenho 19 anos, sou estudante de Análise e Desenvolvimento de Sistemas na FAM e estou construindo minha trajetória na área de tecnologia. Busco minha primeira oportunidade profissional na área, onde possa aplicar os conhecimentos que venho adquirindo, desenvolver novas habilidades e enfrentar desafios que contribuam para o meu crescimento profissional.
+Tenho 20 anos, sou estudante de Análise e Desenvolvimento de Sistemas na FAM e estou construindo minha trajetória na área de tecnologia. Busco minha primeira oportunidade profissional na área, onde possa aplicar os conhecimentos que venho adquirindo, desenvolver novas habilidades e enfrentar desafios que contribuam para o meu crescimento profissional.
 
 📍 São Paulo, SP
 
